@@ -1,5 +1,7 @@
 # Contributing
 
+> This list is part of the **TizWildin Audio Ecosystem**, maintained in collaboration with [GareBear99 / TizWildin Entertainment](https://github.com/GareBear99). The companion list for free and open-source tools is [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev). If your submission is a free/open-source plugin or DSP framework, it may be a better fit there.
+
 Thanks for your interest in contributing to **Awesome VST Plugins**.
 
 ## What belongs here
