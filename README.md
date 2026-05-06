@@ -24,52 +24,7 @@ This list is part of the **GareBear99 / TizWildin audio ecosystem**. Use the tab
 
 ---
 
-## 🎛️ TizWildin Free Plugins — Featured
 
-These are free, open-source plugins from the GareBear99 ecosystem that are directly relevant to this list's categories. Try these first.
-
-| Plugin | Category | Summary |
-|---|---|---|
-| [**FreeEQ8**](https://github.com/GareBear99/FreeEQ8) | EQ | Free 8-band parametric EQ with dynamic EQ, linear phase, match EQ, M/S, oversampling, spectrum analysis |
-| [**FreeVox8**](https://github.com/GareBear99/FreeVox8) | Vocal FX | Spectral vocoder, ghost resynthesis, dynamic spectral masking — vocals, synths, experimental sound design |
-| [**MeterMaid**](https://github.com/GareBear99/MeterMaid) | Metering | ITU-R BS.1770-4 / EBU R128 mastering suite — LUFS, true peak, LRA, spectrogram, goniometer, radar |
-| [**Voxel Audio**](https://github.com/GareBear99/Voxel_Audio) | Utility | Free RGB waveform visualizer and audio export tool |
-| [**Therum**](https://github.com/GareBear99/Therum_JUCE-Plugin) | Synth | Free open-source wavetable synthesizer |
-| [**BassMaid**](https://github.com/GareBear99/BassMaid) | Bass | Bass enhancement and low-end processing |
-| [**GlueMaid**](https://github.com/GareBear99/GlueMaid) | Dynamics | Glue and mix-bus cohesion processor |
-| [**ChainMaid**](https://github.com/GareBear99/ChainMaid) | FX | Sidechain ducking and pumping effects |
-| [**MultiMaid**](https://github.com/GareBear99/MultiMaid) | Dynamics | Focused multiband dynamics processor |
-| [**SpaceMaid**](https://github.com/GareBear99/SpaceMaid) | Spatial | Stereo and spatial processing |
-| [**FreeSampler**](https://github.com/GareBear99/FreeSampler_v0.3) | Sampler | Lightweight open-source sampler |
-| [**AETHER**](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) | Synth/FX | Choir and atmosphere designer for cinematic sound |
-| [**WURP**](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) | Creative FX | Experimental sound-design engine — motion, formant, destructive coloration |
-| [**PAP-Forge-Audio**](https://github.com/GareBear99/PAP-Forge-Audio) | Dev Tool | Procedural plugin generation from natural-language sound intent |
-
----
-
-## 🎁 TizWildin Free Sample Packs
-
-Free sample content from the GareBear99 / TizWildin ecosystem directly usable with the plugins in this list.
-
-| Pack | Description |
-|---|---|
-| [**TizWildin-Aurora**](https://github.com/GareBear99/TizWildin-Aurora) | Synth melody pack — loops, stems, neon/cinematic phrasing |
-| [**TizWildin-Obsidian**](https://github.com/GareBear99/TizWildin-Obsidian) | Dark cinematic — choir textures, bass, atmosphere, drums |
-| [**TizWildin-Skyline**](https://github.com/GareBear99/TizWildin-Skyline) | BPM-tagged synthwave and darkwave loops |
-| [**TizWildin-Chroma**](https://github.com/GareBear99/TizWildin-Chroma) | Game synthwave loop pack |
-| [**TizWildin-Chime**](https://github.com/GareBear99/TizWildin-Chime) | 88 BPM chime collection — glass, void, halo, reed, neon |
-| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples, every chromatic key |
-| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters — noise, synth, drum, FX |
-| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
-| [**Free Violin Synth Sample Kit**](https://github.com/GareBear99/Free-Violin-Synth-Sample-Kit) | Physical-model violin samples from Instrudio |
-| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk — 808s, cowbells, drums, MIDI, templates |
-| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, FX |
-
----
-
-> A curated personal collection of VST/VST3/AU plugins spanning synthesis, mixing, mastering, vocal processing, effects, and hardware emulation. Organized for producers, engineers, and sound designers.
-
----
 
 ## Contents
 
@@ -476,6 +431,53 @@ UAD plugins emulating classic analog hardware:
 ---
 
 ## Collaboration
+
+## 🎛️ TizWildin Free Plugins — Featured
+
+These are free, open-source plugins from the GareBear99 ecosystem that are directly relevant to this list's categories. Try these first.
+
+| Plugin | Category | Summary |
+|---|---|---|
+| [**FreeEQ8**](https://github.com/GareBear99/FreeEQ8) | EQ | Free 8-band parametric EQ with dynamic EQ, linear phase, match EQ, M/S, oversampling, spectrum analysis |
+| [**FreeVox8**](https://github.com/GareBear99/FreeVox8) | Vocal FX | Spectral vocoder, ghost resynthesis, dynamic spectral masking — vocals, synths, experimental sound design |
+| [**MeterMaid**](https://github.com/GareBear99/MeterMaid) | Metering | ITU-R BS.1770-4 / EBU R128 mastering suite — LUFS, true peak, LRA, spectrogram, goniometer, radar |
+| [**Voxel Audio**](https://github.com/GareBear99/Voxel_Audio) | Utility | Free RGB waveform visualizer and audio export tool |
+| [**Therum**](https://github.com/GareBear99/Therum_JUCE-Plugin) | Synth | Free open-source wavetable synthesizer |
+| [**BassMaid**](https://github.com/GareBear99/BassMaid) | Bass | Bass enhancement and low-end processing |
+| [**GlueMaid**](https://github.com/GareBear99/GlueMaid) | Dynamics | Glue and mix-bus cohesion processor |
+| [**ChainMaid**](https://github.com/GareBear99/ChainMaid) | FX | Sidechain ducking and pumping effects |
+| [**MultiMaid**](https://github.com/GareBear99/MultiMaid) | Dynamics | Focused multiband dynamics processor |
+| [**SpaceMaid**](https://github.com/GareBear99/SpaceMaid) | Spatial | Stereo and spatial processing |
+| [**FreeSampler**](https://github.com/GareBear99/FreeSampler_v0.3) | Sampler | Lightweight open-source sampler |
+| [**AETHER**](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) | Synth/FX | Choir and atmosphere designer for cinematic sound |
+| [**WURP**](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) | Creative FX | Experimental sound-design engine — motion, formant, destructive coloration |
+| [**PAP-Forge-Audio**](https://github.com/GareBear99/PAP-Forge-Audio) | Dev Tool | Procedural plugin generation from natural-language sound intent |
+
+---
+
+## 🎁 TizWildin Free Sample Packs
+
+Free sample content from the GareBear99 / TizWildin ecosystem directly usable with the plugins in this list.
+
+| Pack | Description |
+|---|---|
+| [**TizWildin-Aurora**](https://github.com/GareBear99/TizWildin-Aurora) | Synth melody pack — loops, stems, neon/cinematic phrasing |
+| [**TizWildin-Obsidian**](https://github.com/GareBear99/TizWildin-Obsidian) | Dark cinematic — choir textures, bass, atmosphere, drums |
+| [**TizWildin-Skyline**](https://github.com/GareBear99/TizWildin-Skyline) | BPM-tagged synthwave and darkwave loops |
+| [**TizWildin-Chroma**](https://github.com/GareBear99/TizWildin-Chroma) | Game synthwave loop pack |
+| [**TizWildin-Chime**](https://github.com/GareBear99/TizWildin-Chime) | 88 BPM chime collection — glass, void, halo, reed, neon |
+| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples, every chromatic key |
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters — noise, synth, drum, FX |
+| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
+| [**Free Violin Synth Sample Kit**](https://github.com/GareBear99/Free-Violin-Synth-Sample-Kit) | Physical-model violin samples from Instrudio |
+| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk — 808s, cowbells, drums, MIDI, templates |
+| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, FX |
+
+---
+
+> A curated personal collection of VST/VST3/AU plugins spanning synthesis, mixing, mastering, vocal processing, effects, and hardware emulation. Organized for producers, engineers, and sound designers.
+
+---
 
 This list is maintained in collaboration with **[GareBear99 / TizWildin Entertainment](https://github.com/GareBear99)**. The two lists are intentionally complementary:
 
